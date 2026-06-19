@@ -2,15 +2,15 @@
 
 
 
-\*\*Name:\*\* GANGISETTY LAKSHMI SNEHA
+Name: GANGISETTY LAKSHMI SNEHA
 
 
 
-\*\*GitHub Repository:\*\*
+GitHub Repository:
 
 https://github.com/glakshmisneha/o2h-devops-assessment.git
 
-\## Tasks Completed
+Tasks Completed
 
 
 
@@ -28,11 +28,11 @@ https://github.com/glakshmisneha/o2h-devops-assessment.git
 
 
 
-\## Docker Commands
+Docker Commands
 
 
 
-\### Build Docker Image
+Build Docker Image
 
 
 
@@ -40,7 +40,7 @@ docker build -t o2h-app .
 
 
 
-\### Run Docker Container
+Run Docker Container
 
 
 
@@ -48,7 +48,7 @@ docker run -p 3000:3000 o2h-app
 
 
 
-\### Verify Running Container
+Verify Running Container
 
 
 
@@ -56,7 +56,7 @@ docker ps
 
 
 
-\## Application Output
+Application Output
 
 
 
@@ -64,7 +64,7 @@ Hello from o2h DevOps Assessment
 
 
 
-\## Repository Structure
+Repository Structure
 
 
 
@@ -104,7 +104,7 @@ script.sh
 
 
 
-\## Technologies Used
+Technologies Used
 
 
 
@@ -123,14 +123,6 @@ script.sh
 \* GitHub Actions
 
 \* Bash
-
-
-
-\## Author
-
-
-
-GANGISETTY LAKSHMI SNEHA
 
 
 
